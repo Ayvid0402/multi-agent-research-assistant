@@ -8,11 +8,13 @@ Built with Python, Groq API (Llama 3.1), and Streamlit.
 **Author: Divya Maria Manuel**
 
 ---
-
 ## 📸 Demo
 
+### Architecture Diagram
 ![Architecture Diagram](architecture_diagram.png)
 
+### Sample Execution Screenshots & Demo Video
+👉 [Click here to view Screenshots and Demo Video](https://drive.google.com/drive/folders/1i4vKmRhAByx1X1ZbmProi38SnqGOdT3g?usp=drive_link)
 ---
 
 ## 🗺️ How It Works
